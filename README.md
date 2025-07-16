@@ -34,7 +34,7 @@ cp .env.example .env
 npm run dev
 ```
 
-Visit http://localhost:5173 to use the application.
+
 
 ## Features
 
@@ -60,7 +60,6 @@ Visit http://localhost:5173 to use the application.
 
 ## API Documentation
 
-When the backend is running, visit http://localhost:8000/docs for interactive API documentation.
 
 ## Contributing
 
